@@ -1,0 +1,2 @@
+RMS : Average wait time : 12.6667; Average turnaround time : 40.8333
+EDF : Average wait time : 10.8333; Average turnaround time : 39.8333

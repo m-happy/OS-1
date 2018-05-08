@@ -1,0 +1,17 @@
+Average wait time by thread 1 is 5858.917000
+Average wait time by thread 2 is 5877.709000
+Average wait time by thread 3 is 6059.981000
+Average wait time by thread 4 is 5717.052000
+Average wait time by thread 5 is 5935.182000
+Average wait time by thread 6 is 5851.063000
+Average wait time by thread 7 is 6039.892000
+Average wait time by thread 8 is 5798.928000
+Average wait time by thread 9 is 5829.913000
+Average wait time by thread 10 is 5893.257000
+Average wait time by thread 11 is 5788.726000
+Average wait time by thread 12 is 5987.485000
+Average wait time by thread 13 is 5926.722000
+Average wait time by thread 14 is 5850.975000
+Average wait time by thread 15 is 5913.956000
+Average wait time by thread 16 is 5997.546000
+Average wait time of new barr : 117.909130
