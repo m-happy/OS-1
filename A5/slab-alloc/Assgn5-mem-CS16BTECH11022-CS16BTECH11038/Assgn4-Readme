@@ -1,9 +1,0 @@
-Generate the library with: 
-    $ g++ -Wall -Werror -fpic -c -o libmymem.o -I . libmymem.cpp -std=c++11
-    $ g++ -shared -o libmymem.so libmymem.o
-Generate the test tool with: 
-    $ g++ -I . -L . -Wall -o memutil memutil.c -l mymem -std=c++11
-
-Instructions to run the utility :
-    $./memutil -n 100 -t 4
-    
