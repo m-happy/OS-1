@@ -1,3 +1,0 @@
-Number of Processes entering the system : 6
-Number of Processes successfully completed : 6
-Numer of Processes which missed the deadline : 0
